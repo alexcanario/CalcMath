@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
+    <Description>Nuget package for math calcs</Description>
+    <PackageId>CAS.CalcMat</PackageId>
+    <Authors>Alex Canario</Authors>
+    <Company>Control Alt Sistemas</Company>
+    <Product>CalcMath</Product>
+    <Version>1.0.1</Version>
+  </PropertyGroup>
+
+</Project>
